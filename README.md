@@ -2,8 +2,8 @@
 SVM model to classify images into bulbasaur , charmander and pikachu
 
 
-1. path relative used ni h , to code m change krna hoga .
+1. Project is under continuation . Path used in Raw code are not generic.
 
-2. SVM use kiya h , 95% accuracy h unseen data pe
+2. Used Scikit-Learn implementation of SVM
 
-3. Used SciKit Learn 
+3. Upto 98% validation accuracy.
